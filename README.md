@@ -1,2 +1,1 @@
-# ml-code-review
-Machine Learning Code Review
+# Machine Learning Code Review
